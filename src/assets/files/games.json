@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Name",
+    "players": "2-4",
+    "time": "30-60 min",
+    "age": "8+",
+    "rating": "5/5",
+    "bgg": "https://boardgamegeek.com/boardgame/12345/name",
+    "howto": "https://www.youtube.com/watch?v=example",
+    "image": "/assets/images/main/logo.png",
+    "description": "A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.",
+    "fav": true
+  },
+  {
+    "name": "Game",
+    "players": "2-4",
+    "time": "30-60 min",
+    "age": "8+",
+    "rating": "5/5",
+    "bgg": "https://boardgamegeek.com/boardgame/12345/name",
+    "howto": "https://www.youtube.com/watch?v=example",
+    "image": "/assets/images/main/logo.png",
+    "description": "A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.",
+    "fav": false
+  },
+  {
+    "name": "Game",
+    "players": "2-4",
+    "time": "30-60 min",
+    "age": "8+",
+    "rating": "5/5",
+    "bgg": "https://boardgamegeek.com/boardgame/12345/name",
+    "howto": "https://www.youtube.com/watch?v=example",
+    "image": "/assets/images/main/logo.png",
+    "description": "A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.A brief description of the game.",
+    "fav": "classic"
+  }
+]
