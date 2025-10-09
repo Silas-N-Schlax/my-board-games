@@ -1,0 +1,17 @@
+{
+  "name": "my-board-games",
+  "version": "1.0.0",
+  "description": "Simple static site to display all the board/card games I own so people can look at them and tell me what games they would like to play. Also has links to how-to-videos and boardgamegeek.com.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx eleventy --serve",
+    "build": "npx eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

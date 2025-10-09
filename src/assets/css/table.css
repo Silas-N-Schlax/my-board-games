@@ -1,0 +1,108 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table {
+  padding: 25px;
+}
+
+th, td {
+  padding: 12px 15px;
+  border: 1px solid var(--table-border-color);
+  vertical-align: middle;
+  min-width: 150px;
+  text-align: left;
+}
+
+#desc {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--description-text-color);
+}
+
+th {
+  background-color: var(--table-header-bg);
+  color: var(--table-header-text-color);
+  text-align: center;
+}
+
+tr {
+  background-color: var(--table-row-bg);
+}
+
+tr:hover {
+  background-color: var(--table-row-hover-bg);
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+}
+
+img {
+  border: 2px solid #ccc;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+}
+
+strong {
+  color: var(--strong-details-color);
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.fav.true {
+  background-color: var(--table-row-bg-fav);
+}
+
+.fav.true:hover {
+  background-color: var(--table-row-bg-fav-hover);
+}
+
+.fav.classic {
+  background-color: var(--table-row-bg-classic);
+}
+
+.fav.classic:hover {
+  background-color: var(--table-row-bg-classic-hover);
+}
+
+@media (max-width: 786px) {
+  table {
+    display: flex;
+    flex-direction: column;
+    overflow-x: auto;
+  }
+  .image {
+    width: 75px;
+    height: 75px;
+  }
+
+  img {
+    width: 75px;
+    height: 75px;
+  }
+
+  th, td {
+    font-size: 12px;
+    padding: 8px 10px;
+    min-width: unset;
+  }
+
+  #desc {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/table.css">
+  <link rel="stylesheet" href="/assets/css/footer.css">
+  <link rel="stylesheet" href="/assets/css/header.css">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" href="/favicon.ico">
+  <title>Board Games | Schlax.xyz</title>
+</head>
+<body>
+  {% include "header.njk" %}
+
+  <div class="table">
+    <table>
+      <tr>
+        <th>Image</th>
+        <th>Basic Info</th>
+        <th>Description</th>
+      </tr>
+      {% for game in games %}
+      <tr class="fav {{ game.fav }}">
+        <td class="image"><a href="{{ game.bgg }}"><img src="{{ game.image }}" alt="{{ game.name }}" width="100"></a></td>
+        <td><strong>Game:</strong> {{ game.name }}
+          <br><strong>Players:</strong> {{ game.players }}
+          <br><strong>Time:</strong> {{ game.time }}
+          <br><strong>Age:</strong> {{ game.age }}
+          <br><strong>Rating:</strong> {{ game.rating }}
+          <br>
+          <br><strong><a href="{{ game.howto }}">How to Play (video)</a></strong>
+          <br><strong><a href="{{ game.bgg }}">BoardGameGeek.com</a></strong>
+        </td>
+        <td id="desc">{{ game.description }}</td>
+    
+      {% endfor %}
+    </table>
+  </div>
+  
+  {% include "footer.njk" %}
+  <script src="/assets/js/script.js"></script>
+</body>
+</html>
