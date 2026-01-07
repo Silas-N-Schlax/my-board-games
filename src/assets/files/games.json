@@ -503,7 +503,7 @@
     "bgg": "https://boardgamegeek.com/boardgame/204583/kingdomino",
     "howto": "https://youtu.be/smbwBPmP4Ms?si=oUYFddegARo7Sv8E",
     "image": "/assets/images/games/kingdomino.jpg",
-    "description": "Cool little tile placement game where you try to build the best kingdom by placing domino-like tiles with different terrains and crowns to score points.",
+    "description": "Cool little tile placement game where you try to build the best kingdom by placing domino-like tiles with different terrains and crowns to score points. Queen and King domino can be played together making for larger games using one or the others rules not both at the same time.",
     "fav": false
   },
   {
@@ -687,5 +687,70 @@
     "image": "/assets/images/games/plunder.jpg",
     "description": "A fun pirate-themed adventure game where players take on the roles of pirates seeking treasure and glory on the high seas. With a mix of strategy, exploration, and combat, Plunder offers an engaging experience for players who enjoy immersive themes and tactical gameplay.",
     "fav": true
+  },
+  {
+    "name": "Queendomino",
+    "players": "2–4",
+    "time": "25 min",
+    "age": "8+",
+    "genre": "Tile Placement / Family",
+    "rating": "4/5",
+    "bgg": "https://boardgamegeek.com/boardgame/232043/queendomino",
+    "howto": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiG7oy-5PmRAxXNMVkFHca9EwkQwqsBegQIFxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1t18UPYQVrY&usg=AOvVaw0lp42QNqPrWPG1bESda7_a&opi=89978449",
+    "image": "/assets/images/games/queen_dom.jpg",
+    "description": "Cool little tile placement game where you try to build the best kingdom by placing domino-like tiles with different terrains and crowns to score points, unlike the Original Kingdominao, Queendomino has new mechanics that allow a more strategic gameplay requiring you to chose additional tiles and buy them with coins. Queen and King domino can be played together making for larger games using one or the others rules not both at the same time.",
+    "fav": false
+  },
+  {
+    "name": "Age of the Giants (expansion)",
+    "players": "2–5",
+    "time": "20 min",
+    "age": "8+",
+    "genre": "Tile Placement / Family",
+    "rating": "4/5",
+    "bgg": "https://boardgamegeek.com/boardgame/240909/kingdomino-age-of-giants",
+    "howto": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjPtYXG5PmRAxUkFFkFHX7LIIUQkPEHegQIGRAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DneVSKTVAcmU&usg=AOvVaw0CcVd4o_QI2ar4QwY0t4XU&opi=89978449",
+    "image": "/assets/images/games/age_of_giants.jpg",
+  "description": "One of the Expansions to King or Queen domino that adds a 5th player and a way to sabotage both yourself and other players",
+    "fav": false
+  },
+  {
+    "name": "Murdle",
+    "players": "2–4",
+    "time": "5–15 min",
+    "age": "12+",
+    "genre": "Logic / Mystery",
+    "rating": "3/5",
+    "bgg": "https://boardgamegeek.com/boardgame/427787/murdle",
+    "howto": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCn9Kr5fmRAxXMTDABHZNDDnMQkPEHegQIFxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUUnTmaWnRYo&usg=AOvVaw1UU-k20mqd1KlzaiscBlTb&opi=89978449",
+    "image": "/assets/images/games/murdle.jpg",
+    "description": "A logic based murder mystery game using random mechanics for playability and logic puzzles to help everyone solve it, work in teams or play it solo, who will find the guilty person in what place with what weapon first??",
+    "fav": false
+  },
+  {
+    "name": "Monopoly: Bid",
+    "players": "2–5",
+    "time": "5–20 min",
+    "age": "7+",
+    "genre": "Card",
+    "rating": "2/5",
+    "bgg": "https://boardgamegeek.com/boardgame/327797/monopoly-bid",
+    "howto": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9k9iK5vmRAxWATTABHRtgIqkQkPEHegQIFxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcPwhYYSoTKc&usg=AOvVaw0GRw-b40DGmqw5OXunakCu&opi=89978449",
+    "image": "/assets/images/games/mon_bid.jpg",
+    "description": "Simple little card based game based off the game Monopoly, simply explained you bet on cards and try to guess what others will bet so you win.",
+    "fav": false
+  },
+  {
+    "name": "A Game about Weird Things Humans Search For",
+    "players": "3–20",
+    "time": "?? min",
+    "age": "14+",
+    "genre": "Party",
+    "rating": "3/5",
+    "bgg": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=a%20game%20about%20weird%20things%20humans%20search%20for",
+    "howto": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRvIf95vmRAxVe8ckDHddNOU4QkPEHegQIGRAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbGhm0kixTqQ&usg=AOvVaw0nndIbAF_RdULl5pK0ghMT&opi=89978449",
+    "image": "/assets/images/games/weird_things.jpg",
+    "description": "The name is kinda explains it, its all about weird things people search for you have to try and guess what they are.",
+    "fav": false
   }
 ]
